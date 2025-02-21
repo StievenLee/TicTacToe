@@ -50,7 +50,7 @@ public class tic {
             System.out.println("Draw");
         }
 
-       Input.close();
+       Input.close ();
     }
 
     public static void main(String[] args){
